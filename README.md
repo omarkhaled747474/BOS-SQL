@@ -1,2 +1,2 @@
 # BOS-SQL
-BOS SQL Server Database
+BOS SQL Server Database Project
